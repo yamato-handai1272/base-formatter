@@ -12,7 +12,7 @@
         "stylelint-order": "^6.0.4"
     },
     "engines": {
-        "node": "22.14",
+        "node": "22",
         "npm": "11"
     }
 }
